@@ -5,21 +5,19 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-federico-pastore/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tomaspastore200111@gmail.com)
 <br>
-<p>I am a Full Stack developer graduated from Henry Bootcamp looking for the possibility of collaborating with a work team that helps in the search and acquisition of new technologies and abilities. some soft abilities that i count are, solution of problems, logical thinking, tenacity,collaboration and Teamwork.<p>
-<br>
-
+<h4>I am a Full Stack developer graduated from Henry Bootcamp looking for the possibility of collaborating with a work team that helps in the search and acquisition of new technologies and abilities. some soft abilities that i count are, solution of problems, logical thinking, tenacity,collaboration and Teamwork.<h4>
 <br>
 	
 ## Technical skills
 <bl>
 	
-<h4>Programming Languages: </h4>
+<h3>Programming Languages: </h3>
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
 	</p>
-<h4>Skills And Tools: </h4>
+<h3>Skills And Tools: </h3>
 	<bl>
 <p align="left">
 
@@ -34,6 +32,22 @@
 
 </p>
 		
+## Soft skills
+<bl>
+
+<h3> 
+  <li>Tenacity</li>
+  <li>Problems Solving</li>
+  <li>Logical Thinking</li> 
+	<li>Agile Learning</li>
+	<li>Positive Attitude</li>
+	<li>Logical Thinking</li>
+	<li>Emotional Intelligence</li>
+	<li>Collaborative</li>
+</h3>
+	
+<br>
+	
 ## My Projects
 <bl>
 	
