@@ -1,8 +1,12 @@
 ### Hi there 👋
 <br>
-I am a Full Stack developer graduated from Henry Bootcamp looking for the possibility of collaborating with a work team that helps in the search and acquisition of new technologies and abilities. some soft abilities that i count are, solution of problems, logical thinking, tenacity,collaboration and Teamwork
+<p>I am a Full Stack developer graduated from Henry Bootcamp looking for the possibility of collaborating with a work team that helps in the search and acquisition of new technologies and abilities. some soft abilities that i count are, solution of problems, logical thinking, tenacity,collaboration and Teamwork.<p>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Jvmpers/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-federico-pastore/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tomaspastore200111@gmail.com)
 <br>
-### My Projects
+## My Projects
+<bl>
 <br>
 
 <p> <b>ARQUI</b>HUB</p>
