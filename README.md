@@ -35,9 +35,9 @@ Home page (cont.):
 <br>
 <div class="carousel">
 
-		<p><img width="350" alt="Screen Shot 2022-10-24 at 12 08 17" src="https://user-images.githubusercontent.com/100241036/197879324-a23400ee-e772-49eb-9ee7-d790a1737576.png"></p> <!-- li may contain anything -->
-		<p><img width="350" alt="Screen Shot 2022-10-24 at 12 08 17" src="https://user-images.githubusercontent.com/100241036/197879324-a23400ee-e772-49eb-9ee7-d790a1737576.png"></p>
-		<p><img width="350" alt="Screen Shot 2022-10-24 at 12 08 17" src="https://user-images.githubusercontent.com/100241036/197879324-a23400ee-e772-49eb-9ee7-d790a1737576.png"></p>
+		<img width="350" alt="Screen Shot 2022-10-24 at 12 08 17" src="https://user-images.githubusercontent.com/100241036/197879324-a23400ee-e772-49eb-9ee7-d790a1737576.png">
+		<img width="350" alt="Screen Shot 2022-10-24 at 12 08 17" src="https://user-images.githubusercontent.com/100241036/197879324-a23400ee-e772-49eb-9ee7-d790a1737576.png">
+		<img width="350" alt="Screen Shot 2022-10-24 at 12 08 17" src="https://user-images.githubusercontent.com/100241036/197879324-a23400ee-e772-49eb-9ee7-d790a1737576.png">
 
 </div>
 <img width="1394" alt="Screen Shot 2022-10-24 at 12 08 17" src="https://user-images.githubusercontent.com/100241036/197879324-a23400ee-e772-49eb-9ee7-d790a1737576.png">
