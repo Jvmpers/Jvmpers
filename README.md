@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+I am a Full Stack developer graduated from Henry Bootcamp looking for the possibility of collaborating with a work team that helps in the search and acquisition of new technologies and abilities. 
+<br>
 <p> <b>ARQUI</b>HUB</p>
-<br>
-Both architects and programmers work as a group in large projects. We found that there was no way to share files between architects and comment on changes in a centralized manner.
-ARQUIHUB solves this problem allowing users to upload their files, choose their collaborators and have each collaborator upload different updates.
-Even working individually, it is important to have a place to record the changes and be able to go back if necessary and study the different alternatives proposed.
-<br>
 <br>
 Landing page:
 <br>
