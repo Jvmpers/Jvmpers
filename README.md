@@ -1,22 +1,7 @@
 ### Hi there 👋
-### My Projects
-<!--
-**Jvmpers/Jvmpers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <br>
 I am a Full Stack developer graduated from Henry Bootcamp looking for the possibility of collaborating with a work team that helps in the search and acquisition of new technologies and abilities. some soft abilities that i count are, solution of problems, logical thinking, tenacity,collaboration and Teamwork
+### My Projects
 <br>
 
 <p> <b>ARQUI</b>HUB</p>
@@ -40,4 +25,3 @@ Home page (cont.):
 <img width="350" alt="Screen Shot 2022-10-24 at 12 09 34" src="https://user-images.githubusercontent.com/100241036/197879439-71204fa1-5561-4bfe-819f-21d2bb0f1882.png">
 <img width="350" alt="Screen Shot 2022-10-24 at 12 10 10" src="https://user-images.githubusercontent.com/100241036/197879463-2f750757-d822-4505-827c-9635abf98f05.png">
 <br>
-
