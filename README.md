@@ -35,7 +35,7 @@ Home page (cont.):
 <br>
 <div class="carousel">
 	<ul> <!-- Root element must contain ul > li structure -->
-		<li><img width="1394" alt="Screen Shot 2022-10-24 at 12 08 17" src="https://user-images.githubusercontent.com/100241036/197879324-a23400ee-e772-49eb-9ee7-d790a1737576.png"></li> <!-- li may contain anything -->
+		<li><img width="400" alt="Screen Shot 2022-10-24 at 12 08 17" src="https://user-images.githubusercontent.com/100241036/197879324-a23400ee-e772-49eb-9ee7-d790a1737576.png"></li> <!-- li may contain anything -->
 		<li><img width="1394" alt="Screen Shot 2022-10-24 at 12 08 17" src="https://user-images.githubusercontent.com/100241036/197879324-a23400ee-e772-49eb-9ee7-d790a1737576.png"></li>
 		<li><img width="1394" alt="Screen Shot 2022-10-24 at 12 08 17" src="https://user-images.githubusercontent.com/100241036/197879324-a23400ee-e772-49eb-9ee7-d790a1737576.png"></li>
 	</ul>
