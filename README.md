@@ -33,3 +33,4 @@ Home page (cont.):
 <img width="350" alt="Screen Shot 2022-10-24 at 12 09 34" src="https://user-images.githubusercontent.com/100241036/197879439-71204fa1-5561-4bfe-819f-21d2bb0f1882.png">
 <img width="350" alt="Screen Shot 2022-10-24 at 12 10 10" src="https://user-images.githubusercontent.com/100241036/197879463-2f750757-d822-4505-827c-9635abf98f05.png">
 <br>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jvmpers&show_icons=true&hide_border=true" />
