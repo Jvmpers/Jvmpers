@@ -1,5 +1,5 @@
 
- <img style="margin: auto;" src="https://cdn.discordapp.com/attachments/920695731260629069/1034682833664491581/github-header-image.png" alt=javascript width="100%" />
+ <img style="margin: auto;" src="https://cdn.discordapp.com/attachments/920695731260629069/1034695843833450516/github-header-image_1.png" alt=javascript width="100%" />
  
 ## Hi am Pastore Tomás 
 <bl>
