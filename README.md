@@ -14,7 +14,9 @@
 ## Technical skills
 <bl>
 
+
 <img  width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jvmpers&show_icons=true&hide_border=true" />
+	<img  width="30%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frann24&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 <h3>Programming Languages: </h3>
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
