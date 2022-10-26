@@ -7,9 +7,36 @@
 <br>
 <p>I am a Full Stack developer graduated from Henry Bootcamp looking for the possibility of collaborating with a work team that helps in the search and acquisition of new technologies and abilities. some soft abilities that i count are, solution of problems, logical thinking, tenacity,collaboration and Teamwork.<p>
 <br>
- 
+
+<br>
+	
+## Technical skills
+<bl>
+	
+<h4>Programming Languages: </h4>
+<p align="left">
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+	</p>
+<h4>Skills And Tools: </h4>
+	<bl>
+<p align="left">
+
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" alt=postgresql width="60" height="60"/> 
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="60" height="60"/> 
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
+
+</p>
+		
 ## My Projects
 <bl>
+	
 <p> <b>ARQUI</b>HUB</p>
 <p>ArquiHub is an innovative web application that proposes to use github tools as a base, such as the possibility of working in teams and modifying with sistem of updates. This includes a system of filters and searches for projects and publications where we can rate and comment on them. Plus a paid feature that includes the ability to create and embed 3 or more posts or projects and higher search rankings
  <p>
@@ -19,7 +46,7 @@
 
 
 <br>
- #### More
+ 
  <bl>
   <table style="width:100%; table-layout:fixed">
   <tr>
@@ -66,4 +93,5 @@
 
 
 <br>
-<img align="left" width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jvmpers&show_icons=true&hide_border=true" />
+	<img  width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jvmpers&show_icons=true&hide_border=true" />
+
