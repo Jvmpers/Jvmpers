@@ -13,13 +13,15 @@
 	
 ## Technical skills
 <bl>
-	
+
+<img  width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jvmpers&show_icons=true&hide_border=true" />
 <h3>Programming Languages: </h3>
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-11639606208newcm5th7y.png" alt=python width="60" height="60"/>
 	</p>
+	<br>
 <h3>Skills And Tools: </h3>
 	<bl>
 <p align="left">
@@ -111,5 +113,5 @@
 
 
 <br>
-	<img  width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jvmpers&show_icons=true&hide_border=true" />
+	
 
